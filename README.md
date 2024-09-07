@@ -10,7 +10,7 @@ and accuracy of object detection have been significantly improved and have surpa
 when doing certain tasks like classification of numbers. 
 In this project, you will implement a classic object detection method called template matching. You will 
 need to program three types of template matching methods based on different metrics, namely the sum 
-of squared differences (SSD) method, the correlation coefficient method, and the normalized crosscorrelation method. You will first use these to find the location of Waldo with templates given to you. 
+of squared differences (SSD) method, the correlation coefficient method, and the normalized crosscorrelation method. You will first use these to find the location of Waldo with templates given to you. 
 Then you will find/create your own template and implement those methods for a real-life application of 
 your choice. 
 
